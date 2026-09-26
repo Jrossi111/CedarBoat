@@ -1,5 +1,6 @@
 from paths import data_path
 
+import time
 import linecache
 
 import start_paper_amount_calc
@@ -28,21 +29,35 @@ def refresh_values():
 
 def start_stat_room():
     if paper_amount_length == 0 or paper_amount_width == 0:
+        print("\n" * 100)
         print("\n-----------------------------------------------")
         print("Cannot load page without boats length and width")
         print("-----------------------------------------------\n")
+        time.sleep(2)
         return_to_main_menu()
     else:
+        missing_value = True
         if total_paper_amount_length == 0:
             print("\n!Missing Value! = total_paper_amount_length")
+            time.sleep(2)
         if total_paper_amount_width == 0:
             print("\n!Missing Value! = total_paper_amount_width")
+            time.sleep(2)
         if paper_amount_sides == 0:
             print("\n!Missing Value! = paper_amount_sides")
+            time.sleep(2)
         if first_person_weight == 0:
             print("\n!Missing Value! = first_person_weight")
+            time.sleep(2)
         if second_person_weight == 0:
             print("\n!Missing Value! = second_person_weight")
+            time.sleep(2)
+
+
+        print("\n" * 100)
+
+        if missing_value == True:
+            print("!INFORMATION MAY BE INACCURATE DUE TO MISSING VALUES")
 
         answer = input(f"\nStat Room\n"
               f"Total Paper Dimensions: {total_paper_amount_length}L x {total_paper_amount_width}W\n"
@@ -57,7 +72,11 @@ def start_stat_room():
               f"Freeboard: {round(paper_amount_sides - (first_person_weight + second_person_weight + 16) / (paper_amount_length * paper_amount_width * 0.03611), 2)} Inches\n"
               f"\n"
               f"Press enter to return\n")
-        if answer == "".strip().lower():
+        if answer == "secret".strip().lower():
+            print("Wow how you find this, this a secret yo, aint nothing here")
+            time.sleep(2)
+            return_to_main_menu()
+        else:
             return_to_main_menu()
 
 def return_to_main_menu():

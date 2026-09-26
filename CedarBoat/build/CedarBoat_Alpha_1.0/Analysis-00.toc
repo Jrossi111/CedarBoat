@@ -518,10 +518,6 @@
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_opcode_metadata.py',
    'PYMODULE'),
-  ('codeop',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codeop.py',
-   'PYMODULE'),
   ('_py_warnings',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_py_warnings.py',
@@ -529,6 +525,14 @@
   ('tracemalloc',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('codeop',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('stringprep',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stringprep.py',
    'PYMODULE'),
   ('subprocess',
    "C:\\Users\\Javan's "
@@ -541,10 +545,6 @@
   ('_py_abc',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_py_abc.py',
-   'PYMODULE'),
-  ('stringprep',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stringprep.py',
    'PYMODULE'),
   ('stat_room', "C:\\Users\\Javan's PC\\CedarBoat\\stat_room.py", 'PYMODULE'),
   ('main', "C:\\Users\\Javan's PC\\CedarBoat\\main.py", 'PYMODULE'),
@@ -592,57 +592,57 @@
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_bz2.pyd',
    'EXTENSION'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-string-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-filesystem-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-math-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-time-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-convert-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-convert-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
+  ('api-ms-win-crt-time-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
+  ('api-ms-win-crt-heap-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
    'BINARY'),
   ('VCRUNTIME140.dll',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
    'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-crt-process-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-heap-l1-1-0.dll',
+  ('api-ms-win-crt-environment-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
   ('libcrypto-3.dll',
    "C:\\Users\\Javan's "
@@ -660,61 +660,45 @@
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
+  ('api-ms-win-core-profile-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-fibers-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-fibers-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-util-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-handle-l1-1-0.dll',
+  ('api-ms-win-core-heap-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
+   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-synch-l1-2-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
    'BINARY'),
   ('api-ms-win-core-sysinfo-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-console-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-errorhandling-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
@@ -724,45 +708,61 @@
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
+  ('api-ms-win-core-localization-l1-2-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
    'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-interlocked-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
    'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+  ('api-ms-win-core-datetime-l1-1-0.dll',
    'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
-   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
    'BINARY')],
  [],
  [],
@@ -771,85 +771,33 @@
    "C:\\Users\\Javan's "
    'PC\\CedarBoat\\build\\CedarBoat_Alpha_1.0\\base_library.zip',
    'DATA')],
- [('_collections_abc',
+ [('codecs',
    "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_collections_abc.py',
-   'PYMODULE'),
-  ('linecache',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\linecache.py',
-   'PYMODULE'),
-  ('sre_compile',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_compile.py',
-   'PYMODULE'),
-  ('traceback',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('ntpath',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('keyword',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('operator',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\operator.py',
-   'PYMODULE'),
-  ('stat',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stat.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codecs.py',
    'PYMODULE'),
   ('warnings',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\warnings.py',
    'PYMODULE'),
+  ('copyreg',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copyreg.py',
+   'PYMODULE'),
   ('_weakrefset',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_weakrefset.py',
-   'PYMODULE'),
-  ('os',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\os.py',
-   'PYMODULE'),
-  ('abc',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\abc.py',
-   'PYMODULE'),
-  ('functools',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\functools.py',
-   'PYMODULE'),
-  ('codecs',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\codecs.py',
-   'PYMODULE'),
-  ('sre_constants',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('enum',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\enum.py',
-   'PYMODULE'),
-  ('reprlib',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\reprlib.py',
    'PYMODULE'),
   ('types',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\types.py',
    'PYMODULE'),
-  ('genericpath',
+  ('collections',
    "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\genericpath.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\collections\\__init__.py',
    'PYMODULE'),
-  ('copyreg',
+  ('traceback',
    "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copyreg.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\traceback.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    "C:\\Users\\Javan's "
@@ -1343,29 +1291,21 @@
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('posixpath',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\posixpath.py',
-   'PYMODULE'),
   ('locale',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\locale.py',
    'PYMODULE'),
-  ('heapq',
+  ('linecache',
    "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\heapq.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\linecache.py',
    'PYMODULE'),
-  ('collections',
+  ('genericpath',
    "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\collections\\__init__.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\genericpath.py',
    'PYMODULE'),
-  ('io',
+  ('stat',
    "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\io.py',
-   'PYMODULE'),
-  ('sre_parse',
-   "C:\\Users\\Javan's "
-   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_parse.py',
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\stat.py',
    'PYMODULE'),
   ('re._parser',
    "C:\\Users\\Javan's "
@@ -1387,7 +1327,67 @@
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\re\\__init__.py',
    'PYMODULE'),
+  ('enum',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\enum.py',
+   'PYMODULE'),
+  ('sre_constants',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('ntpath',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('operator',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\operator.py',
+   'PYMODULE'),
+  ('posixpath',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('sre_parse',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('io',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\io.py',
+   'PYMODULE'),
+  ('sre_compile',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\sre_compile.py',
+   'PYMODULE'),
   ('weakref',
    "C:\\Users\\Javan's "
    'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('os',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\os.py',
+   'PYMODULE'),
+  ('functools',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\functools.py',
+   'PYMODULE'),
+  ('abc',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\abc.py',
+   'PYMODULE'),
+  ('keyword',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('reprlib',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('heapq',
+   "C:\\Users\\Javan's "
+   'PC\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\heapq.py',
    'PYMODULE')])
